@@ -176,5 +176,5 @@ cython_debug/
 .idea/
 *.iml
 *.ipr
-*secret*
-
+**/*secret*.*
+**/*secret*/
